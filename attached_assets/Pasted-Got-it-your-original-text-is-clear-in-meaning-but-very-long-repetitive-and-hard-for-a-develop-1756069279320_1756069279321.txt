@@ -1,0 +1,138 @@
+Got it 👍 — your original text is clear in meaning but very long, repetitive, and hard for a developer to follow. I’ve corrected it into a professional, structured version that organizes everything into sections (Homepage, Promotions, Navbar, Footer, Admin Features, Deployment). This way, it reads like proper requirements/bug documentation.
+
+⸻
+
+Corrected Version:
+
+We need to fix the homepage and related features properly. Below are the issues and requirements:
+
+⸻
+
+1. Navbar
+	•	The navbar is working and items are clickable.
+	•	Issues:
+	•	Search is not working.
+	•	Open an Account is not working.
+	•	Login is working fine.
+
+⸻
+
+2. Homepage Sections
+
+a. Hero/Service Sections
+	•	Under “Helping People,” “Banks Matter,” “Savings & CDs”:
+	•	Learn More buttons do nothing. They must link to real-world information pages.
+	•	Same issue applies to:
+	•	Checking
+	•	Credit Card
+	•	Account & Deposit
+	•	Personal Loans
+	•	Wealth
+	•	Rewards
+	•	Debit Card
+	•	All must display relevant, real-world information when clicked.
+
+b. Mobile Banking Section
+	•	Mobile Check Deposit → not working.
+	•	Set Up Alert → not working.
+	•	Manage Cash → not working.
+	•	Transfer Money → not working.
+	•	Mobile Banking App Preview Tool → empty. Add meaningful preview content.
+
+c. Promotions Section
+	•	View More button not working.
+	•	Sub-items not working or not hovering:
+	•	Guitar Banking Promotion
+	•	Great Local Privileges
+	•	Business Growth Solution
+	•	Replace current images with high-quality, real-world images (avoid repeats).
+
+d. Banking for Individuals
+	•	Hover effects and links not working on:
+	•	Personal Banking (More, Digital Banking, Get Started, Islamic Banking, Explore, Priority Banking, Learn More).
+
+e. Banking for Companies
+	•	Issues with:
+	•	Business Banking (Learn More)
+	•	Corporate Banking (Discover)
+	•	Trade Finance (Get Started)
+
+f. “What’s New” Section
+	•	Items are not hovering.
+	•	Replace with unique, real-world images (no duplicates).
+
+g. Invest With Our Team
+	•	Get Started not working.
+	•	Add real-world content under Important Information (make it simple, clear, and dynamic).
+
+⸻
+
+3. Footer Section
+	•	None of the links are working. Examples:
+	•	About Us → Profile, History, Leadership, Community, Shareholder Relations, Sustainability.
+	•	Careers → Explore Opportunities, Student Programs, Benefits, Diversity, Military Hiring, Campus Recruiting.
+	•	Customer Service → Contact Us, Branch Locator, ATM Locator, Order Check, Routing Number, Customer Feedback.
+	•	Legal/Policy → Privacy Policy, Terms of Use, Accessibility, Security Center, Sitemap, Fraud Prevention.
+	•	Each must display proper information pages.
+
+⸻
+
+4. Navbar → Products Section
+	•	Issues across Personal Banking:
+	•	Checking Account (Learn More not working)
+	•	Savings Account (Open Account not working)
+	•	Credit Cards (Apply Now not working)
+	•	Issues across Business Banking:
+	•	Business Checking (Learn More not working)
+	•	Business Loans (Apply Today not working)
+	•	Issues across Investment & Wealth Management:
+	•	CDs & Money Market (View Rates not working)
+	•	Investment Services (Get Started not working)
+	•	Retirement Planning (Plan not working)
+
+⸻
+
+5. Promotions (Detailed)
+	•	Current Promotions: Add an image slider (4 rotating promotional images).
+	•	Future Offers:
+	•	New Account Bonus → Open Account not working.
+	•	High-Yield Savings → Start Savings not working.
+	•	All Current Offers (not working):
+	•	Credit Card Rewards → Apply Now
+	•	Student Account Special → Learn More
+	•	Business Banking Deal → Open Account
+	•	Mortgage Rate Special → Get Quote
+	•	Refer a Friend → Refer Now
+	•	Mobile Banking Bonus → Get Started
+
+⸻
+
+6. Services → Customer Support
+	•	Call Now → empty, not working.
+	•	Live Chat → Start Chat not working.
+
+⸻
+
+7. Admin Dashboard Features
+	•	User Management:
+	•	Currently, admin can edit a user and resend email for password reset.
+	•	Add feature so admin can:
+	•	Send a reset link OR
+	•	Directly change the password from the dashboard.
+	•	Configuration Management:
+	•	Instead of environment variables, add a configuration panel inside Admin Dashboard where admin can input:
+	•	Database URL
+	•	Authentication details
+	•	Application settings
+	•	Admin should be able to save, test connection, and verify status directly.
+
+⸻
+
+8. Documentation
+	•	After fixes, update:
+	•	README
+	•	Documentation (Docs)
+
+⸻
+
+✅ The goal: A functional, user-friendly homepage and admin dashboard that feels like a professional banking platform with proper navigation, information, and configuration tools.
