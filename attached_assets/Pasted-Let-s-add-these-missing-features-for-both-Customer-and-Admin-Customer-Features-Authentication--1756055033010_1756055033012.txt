@@ -1,0 +1,121 @@
+Let’s add these missing features for both Customer and Admin:
+
+🔹 Customer Features
+
+Authentication & Security
+
+Password reset & recovery
+
+Account Management
+
+Open/close different account types (Savings, Current, Investment, Business)
+
+Profile management (personal info, KYC documents, ID verification)
+
+View account balance
+
+Downloadable statements (PDF/Excel)
+
+Transaction history with filters (date, type, amount)
+
+Payments & Transfers
+
+(Additional transfer/payment features as needed)
+
+Cards & Wallets
+
+Virtual debit/credit card generation
+
+Physical card request
+
+Card freezing/unfreezing
+
+Spending limits & daily caps
+
+Card replacement request
+
+Notifications & Alerts
+
+Real-time push notifications (transaction alerts, login alerts)
+
+Email/SMS confirmations
+
+Fraud alerts and suspicious activity warnings
+
+Loans & Credit
+
+Loan application
+
+Loan approval status tracking
+
+Repayment schedules & reminders
+
+Credit score integration
+
+Customer Support
+
+Live chat with a banking agent (with admin access to chat)
+
+Ticketing system for complaints/issues
+
+Knowledge base (articles, guides, fraud awareness)
+
+Inheritance & Ownership
+
+Add/edit next of kin / beneficiary
+
+Automatic inheritance workflow on death verification
+
+Joint account ownership & survivor rules
+
+Ownership transfer for business accounts
+
+🔹 Admin / Bank Features
+
+Customer Management
+
+Approve/reject new account openings
+
+Verify customer KYC (ID, SSN, Email, Phone)
+
+Edit customer details (with audit trail)
+
+Suspend, freeze, or close accounts
+
+Reset customer credentials if requested
+
+View customer transaction history
+
+Transaction Management
+
+Approve/reject high-value transfers
+
+Monitor pending transactions
+
+Set transaction limits (per user, per account type)
+
+Flag suspicious or fraudulent transactions
+
+Reverse or refund transactions if needed
+
+Loan & Credit Management
+
+Approve/reject loan applications
+
+Set loan terms & interest rates
+
+Monitor repayment schedules
+
+Manage overdue loans & penalties
+
+Credit scoring & customer risk rating
+
+Inheritance & Ownership (Admin Side)
+
+Verify inheritance documents (death certificate, legal orders)
+
+Transfer account ownership to beneficiaries/next of kin
+
+Handle disputes (escrow/holding accounts until resolved)
+
+Update business account ownership (new directors, shareholders)

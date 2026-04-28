@@ -1,0 +1,27 @@
+Okay, so we still have some issues regarding the customer account.
+ 1. Customer Profile Issues
+ • When a user visits their customer account, they should be able to manage their personal information and verification status.
+ • Currently, when a customer tries to upload documents, it does not work.
+ • Inside the Personal Info, Contact Address, and Financial Info sections, when you click on Edit, you cannot type or make changes. Even when you try to save, it does not work.
+ • The entire customer profile section needs to be fixed properly.
+ 2. Customer Support Issues
+ • When a customer creates a new support request, the admin must be able to receive and manage that ticket from the admin dashboard.
+ • On the customer side, when they open a ticket, there should be a section with Ticket Details and Message.
+ • Customers should be able to send a message, and the admin should also receive it, reply, and engage in two-way communication.
+ • Add a feature on the admin dashboard to receive and respond to customer tickets directly.
+ 3. New Account Creation
+ • When a customer tries to open a new account, the admin should be notified.
+ • The admin must have the ability to approve the account or request additional details.
+ • Inside the admin dashboard, there should also be a Transfer Approval section where the admin can view pending transfers made by customers.
+ • The admin should be able to approve, reject, or send a message with reasons for rejection.
+ • These messages should also be sent to the customer’s email address automatically.
+ 4. User Management in Admin Dashboard
+ • Currently, we can create a new user, but we cannot manage them effectively.
+ • The admin must be able to:
+ • Edit user details
+ • Reset passwords
+ • Change user roles
+ • Add more advanced management features
+ • The admin dashboard should be improved to give full control over user management and integrate smoothly with the customer side.
+
+The goal is to make the system work smoothly and feel like a banking platform with proper customer–admin interactions and management tools.
